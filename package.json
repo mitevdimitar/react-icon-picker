@@ -1,0 +1,24 @@
+{
+  "name": "react-icon-picker",
+  "version": "1.0.0",
+  "description": "Component that allows you to select Material design icons from drop down menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitevdimitar/react-icon-picker.git"
+  },
+  "keywords": [
+    "react",
+    "icon",
+    "picker"
+  ],
+  "author": "Dimitar Mitev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitevdimitar/react-icon-picker/issues"
+  },
+  "homepage": "https://github.com/mitevdimitar/react-icon-picker#readme"
+}
